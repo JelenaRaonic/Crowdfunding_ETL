@@ -114,3 +114,6 @@ Option 2: Use regular expressions. (We used option 2)
 7. Import each CSV file into its corresponding SQL table.
 
 8. Verify that each table has the correct data by running a SELECT statement for each.
+
+![ERD](https://github.com/JelenaRaonic/Crowdfunding_ETL/assets/159662554/565fb7f4-1107-4866-9239-43eb2137ac78)
+
