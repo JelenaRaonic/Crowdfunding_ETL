@@ -52,7 +52,7 @@ SELECT * FROM category;
 --#2
 --imported subcategory.csv to subcatagory table
 --check if the data is imported correctly
-SELECT * FROM subcatagory;
+SELECT * FROM subcategory;
 
 --#3
 --imported contacts.csv to contacts table
