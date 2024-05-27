@@ -5,7 +5,7 @@
 
 In this Crowdfunding_ETL project we are building ETL pipelines using Python, Panda and other tools. 
 
-This project will consist of the following : 
+This project consists of the following : 
 
 ### Create the Category and Subcategory DataFrames
 
